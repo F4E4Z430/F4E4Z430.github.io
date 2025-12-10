@@ -1,0 +1,54 @@
+.head{
+    background-color: #f0f4f8;
+    font-family: Arial
+}
+.card{
+    background-color: lightgrey;
+    border-radius: 5px;
+    width: 500px;
+}
+.azul{
+    background-color: #4a90e2;
+    text-align: center;
+    height: 200px;
+    padding-top: 0;
+}
+.cinza{
+    background-color: #333;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h1{
+    color: white;
+}
+.DCSS{
+    color: white;
+}
+nav a{
+    color: white;
+    padding: 15px
+}
+h2{
+    color: #4a90e2;
+}
+.FP{
+background-color: #4a90e2
+}
+.FP{
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+html{
+    font-family: Arial;
+
+}
+body{
+    margin: 0;
+}
+nav a{
+    text-decoration: none;
+}

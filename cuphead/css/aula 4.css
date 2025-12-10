@@ -1,0 +1,26 @@
+.container{
+padding: 10px;
+display: flex;
+gap: 5px;
+flex-wrap: wrap;
+border-radius: 8px;
+}
+
+.card{
+border: 2px outset greenyellow;
+padding: 5px;
+background-color: black;
+border-radius: 8px;
+}
+.card img{
+   height: 200px;
+   width: 170px;
+   border-radius: 8px;
+}
+.card p{
+text-align: center;
+color: aliceblue;
+width: 170px;
+}
+h1{color: darkslategrey; 
+font-family:cursive}

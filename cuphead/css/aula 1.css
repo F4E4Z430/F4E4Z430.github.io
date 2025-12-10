@@ -1,0 +1,12 @@
+/*
+No css expressamos estilos na página.
+ex.: "o parágrafo deve ser da cor vermelha"
+seletor (quem?)             parágrafo   p
+atributo(o que?)            cor         color
+valor(qual?)                vermelho    red
+
+*/
+p{color: red;font-size: 50px;font-family:'comic sans MS' ;background-color: rgb(255, 123, 0);text-align: center;border:6px outset lime ;}
+h1{color:rgb(221, 255, 30);font-family:'wingdings' ;background-color: aquamarine;} 
+img{height: 200px;width: 200;border: 6px outset lime;border-radius: 25%;}
+body{background-color: lightgoldenrodyellow ;}

@@ -1,0 +1,39 @@
+.imagem{
+    width: 60%;
+}
+.titulo{
+font-family: fantasy;
+size: 30%;
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boss{
+background-color: chartreuse;
+padding: 3px;
+transition: 0.3s;
+border-radius: 10px;
+}
+body{
+    background-color: rgba(245, 222, 179, 0.473);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.boss:hover{
+background-color: rgb(77, 153, 0);
+border-radius: 25px;
+}
+.iframe{
+    width: 75%;
+}
+.boses{
+    display: flex;
+    gap: 10px;
+}
+hr{
+    width: 100%;
+    border-style: dashed ;
+    height: 10px;
+}
